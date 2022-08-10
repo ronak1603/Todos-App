@@ -1,0 +1,25 @@
+#list_div{
+    width:470px;
+    box-shadow: 1px 2px 2px;
+    height:fit-content;
+    padding:20px;
+}
+#container{
+    position: absolute;
+    margin-left:500px;
+}
+#input{
+    width:500px;
+}
+.button{
+    width:auto;
+    height:fit-content;
+}
+.items{
+    margin-top:1px;
+}
+.todos{
+    color: rgb(201, 132, 188);
+    opacity: 2px;
+    width:500px;
+}
