@@ -1,0 +1,30 @@
+#item_div{
+    width:500px;
+    height:30px;
+    
+    position: relative;
+    display: flex;
+
+}
+ #complete_checkbox{
+
+    width:10%;
+    margin-top: 8px;
+}
+#delete_button{
+    width:15%;
+    margin-top: 5px;
+}
+#delete_div{
+    width:5%;
+    margin-top: 5px;
+}
+
+#task_div{
+    width:80%;
+    height: 100%;
+    font-size: 20px;
+}
+.complete{
+    text-decoration-line: line-through;
+}
